@@ -1,0 +1,13 @@
+[26-Aug-2019 22:39:40 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[27-Aug-2019 12:38:51 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[27-Aug-2019 18:00:19 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[28-Aug-2019 12:02:28 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[29-Aug-2019 12:07:41 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[29-Aug-2019 12:07:44 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[29-Aug-2019 12:08:43 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[25-Sep-2019 13:13:11 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[25-Sep-2019 13:13:24 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[25-Sep-2019 13:18:34 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 105
+[28-Oct-2019 23:14:26 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/request/offerCode.php on line 13
+[05-Nov-2019 08:13:14 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/request/offerCode.php on line 13
+[07-Nov-2019 03:37:48 Asia/Tehran] PHP Warning:  ini_alter() has been disabled for security reasons in /home/fonixmal/public_html/admin/class/dataBase.php on line 85

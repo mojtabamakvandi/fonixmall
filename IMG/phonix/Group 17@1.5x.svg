@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="436px" height="315px" viewBox="0 0 436 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="39.3335887" cy="40.9276896" rx="39.3335887" ry="40.9276896"></ellipse>
+        <filter x="-26.1%" y="-15.3%" width="152.1%" height="150.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="39.3335887" cy="39.4303351" rx="39.3335887" ry="39.4303351"></ellipse>
+        <filter x="-26.1%" y="-15.9%" width="152.1%" height="152.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-5" cx="39.3335887" cy="40.9276896" rx="39.3335887" ry="40.9276896"></ellipse>
+        <filter x="-26.1%" y="-15.3%" width="152.1%" height="150.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-7" cx="43.671211" cy="44.7735952" rx="43.671211" ry="44.7735952"></ellipse>
+        <filter x="-25.8%" y="-15.1%" width="151.5%" height="150.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-9" cx="55" cy="55" r="55"></circle>
+        <filter x="-20.5%" y="-12.3%" width="140.9%" height="140.9%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-11" cx="66.5" cy="67" rx="66.5" ry="67"></ellipse>
+        <filter x="-16.9%" y="-10.1%" width="133.8%" height="133.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-13" cx="35.3146606" cy="35.900135" rx="35.3146606" ry="35.900135"></ellipse>
+        <filter x="-23.4%" y="-14.6%" width="146.7%" height="146.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-15" cx="30.5995613" cy="30.6748252" rx="30.5995613" ry="30.6748252"></ellipse>
+        <filter x="-27.0%" y="-17.1%" width="153.9%" height="153.8%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-17" cx="30.5995613" cy="31.6643357" rx="30.5995613" ry="31.6643357"></ellipse>
+        <filter x="-27.0%" y="-16.6%" width="153.9%" height="152.1%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-19" cx="24.6598209" cy="24.7204752" rx="24.6598209" ry="24.7204752"></ellipse>
+        <filter x="-26.4%" y="-16.2%" width="152.7%" height="152.6%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-21" cx="21.5" cy="21.5" r="21.5"></circle>
+        <filter x="-30.2%" y="-18.6%" width="160.5%" height="160.5%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-23" cx="21.5" cy="21.5" r="21.5"></circle>
+        <filter x="-30.2%" y="-18.6%" width="160.5%" height="160.5%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-25" cx="24.6598209" cy="24.7204752" rx="24.6598209" ry="24.7204752"></ellipse>
+        <filter x="-26.4%" y="-16.2%" width="152.7%" height="152.6%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.644185799   0 0 0 0 0.644185799   0 0 0 0 0.644185799  0 0 0 0.213824728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phonix" transform="translate(-111.000000, -2201.000000)">
+            <g id="Section" transform="translate(0.000000, 2063.000000)">
+                <g id="Group-17" transform="translate(123.000000, 141.000000)">
+                    <g id="Group-10" transform="translate(146.000000, 183.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(17.809524, 7.809524)">
+                            <polyline id="Fill-13" fill="#00D3F1" points="21.4232095 0 10.076982 26.7391304 32.769437 26.7391304 21.4232095 0"></polyline>
+                            <text id="۲۵٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="25.9199978" font-weight="normal" fill="#454F5B">
+                                <tspan x="0.301417082" y="58">۲۵٪</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-7" transform="translate(238.000000, 163.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(18.809524, 7.523810)">
+                            <polyline id="Fill-13" fill="#00D3F1" points="20.4232095 0 9.076982 21.1607143 31.769437 21.1607143 20.4232095 0"></polyline>
+                            <text id="۲۰٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="25.9199978" font-weight="normal" fill="#454F5B">
+                                <tspan x="0.756415167" y="52.1130952">۲۰٪</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-6" transform="translate(208.000000, 0.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(17.726318, 7.206010)">
+                            <g id="Group-20">
+                                <polyline id="Fill-13" fill="#00DACC" points="21.4232095 0 10.076982 26.7391304 32.769437 26.7391304 21.4232095 0"></polyline>
+                                <text id="۲۵٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="25.9199978" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.301417082" y="58">۲۵٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-3" transform="translate(317.000000, 199.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(19.899435, 8.426077)">
+                            <g id="Group-26">
+                                <polyline id="Fill-13" fill="#007E9A" points="23.9650334 0 11.5413268 29.8867925 36.3887399 29.8867925 23.9650334 0"></polyline>
+                                <text id="۳۰٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="28.7999983" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.965033369" y="65">۳۰٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-9" transform="translate(302.000000, 16.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(27.264957, 10.341880)">
+                            <g id="Group-26">
+                                <polyline id="Fill-13" fill="#FD6140" points="27.9676549 0 12.4548344 31.025641 43.4804754 31.025641 27.9676549 0"></polyline>
+                                <text id="۵۰٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="28.7999983" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.0166151564" y="72.3632479">۵۰٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-10" transform="translate(0.000000, 157.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(33.000000, 13.000000)">
+                            <g id="Group-26">
+                                <polyline id="Fill-13" fill="#FD6140" points="34.2792553 0 8.76626399 46.1021512 59.7922467 46.1021512 34.2792553 0"></polyline>
+                                <text id="۷۰٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="28.7999983" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.020203274" y="82.6121648">۷۰٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-2" transform="translate(89.000000, 75.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(18.150063, 6.700405)">
+                            <g id="Group-22">
+                                <polyline id="Fill-13" fill="#FFC48B" points="18.4905544 0.244067797 8.14808805 22.2101695 27.6838578 22.2101695 18.4905544 0.244067797"></polyline>
+                                <text id="۱۸٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="23.3279974" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.66459715" y="48.7559322">۱۸٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy" transform="translate(169.000000, 93.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(14.171501, 6.147544)">
+                            <g id="Group-23">
+                                <polyline id="Fill-13" fill="#95CDB1" points="16.0679178 8.8817842e-15 6.79990251 16.3505324 24.1774311 16.3505324 16.0679178 8.8817842e-15"></polyline>
+                                <text id="10٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="20.1599985" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0" y="39.7575758">10٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-8" transform="translate(45.000000, 7.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(16.929076, 6.345852)">
+                            <g id="Group-16">
+                                <polyline id="Fill-13" fill="#95CDB1" points="14.025591 0 4.75757576 21.017848 22.1351044 21.017848 14.025591 0"></polyline>
+                                <text id="10٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="20.1599985" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.212121212" y="43">10٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-4" transform="translate(136.000000, 22.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(16.118671, 5.200774)">
+                            <g id="Group-19">
+                                <polyline id="Fill-13" fill="#95CDB1" points="8.61702666 -4.79616347e-14 1.33289494 16.6526493 14.9906419 16.6526493 8.61702666 -4.79616347e-14"></polyline>
+                                <text id="۹٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="16.1279978" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.420532146" y="35">۹٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-11" transform="translate(29.000000, 93.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(12.152174, 1.869565)">
+                            <g id="Group-19">
+                                <polyline id="Fill-13" fill="#95CDB1" points="9.52576058 0 1.61775468 11.8872271 16.4452657 11.8872271 9.52576058 0"></polyline>
+                                <text id="۵٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="16.1279978" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.125393149" y="31.2687747">۵٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-12" transform="translate(336.000000, 141.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(12.152174, 1.869565)">
+                            <g id="Group-19">
+                                <polyline id="Fill-13" fill="#95CDB1" points="9.52576058 0 1.61775468 11.8872271 16.4452657 11.8872271 9.52576058 0"></polyline>
+                                <text id="۵٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="16.1279978" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.125393149" y="31.2687747">۵٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10-Copy-5" transform="translate(252.000000, 100.000000)">
+                        <g id="Oval-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        </g>
+                        <g id="Group-14" transform="translate(15.175274, 5.200774)">
+                            <g id="Group-24">
+                                <polyline id="Fill-13" fill="#95CDB1" points="9.56042288 -3.64153152e-14 2.27629116 12.8822381 15.9340381 12.8822381 9.56042288 -3.64153152e-14"></polyline>
+                                <text id="9٪" font-family="IRANSansFaNum, IRANSans(FaNum)" font-size="16.1279978" font-weight="normal" fill="#454F5B">
+                                    <tspan x="0.758763721" y="31.3867925">9٪</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

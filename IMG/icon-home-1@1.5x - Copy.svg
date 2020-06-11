@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="110px" viewBox="0 0 122 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-home-1@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phonix" transform="translate(-839.000000, -1738.000000)" stroke-width="2">
+            <g id="3-column" transform="translate(106.000000, 626.000000)">
+                <g id="Group-7" transform="translate(0.000000, 1074.000000)">
+                    <g id="01" transform="translate(644.000000, 0.000000)">
+                        <g id="icon-home-1" transform="translate(89.000000, 39.000000)">
+                            <polygon id="Rectangle-path" stroke="#2A5082" points="32.292 33.92 81.678 33.92 81.678 108 32.292 108"></polygon>
+                            <polygon id="Rectangle-path" stroke="#2A5082" fill="#F1F1F1" fill-rule="nonzero" points="37.99 24.423 75.979 24.423 75.979 33.921 37.99 33.921"></polygon>
+                            <polygon id="Rectangle-path" stroke="#2A5082" fill="#F1F1F1" fill-rule="nonzero" points="53.186 92.805 64.581 92.805 64.581 108 53.186 108"></polygon>
+                            <polyline id="Shape" stroke="#2A5082" points="41.789 60.514 41.789 51.016 51.287 51.016 51.287 60.514"></polyline>
+                            <polyline id="Shape" stroke="#2A5082" points="41.789 75.709 41.789 66.211 51.287 66.211 51.287 75.709"></polyline>
+                            <polygon id="Rectangle-path" stroke="#2A5082" points="13.297 60.514 32.292 60.514 32.292 108 13.297 108"></polygon>
+                            <polygon id="Rectangle-path" stroke="#2A5082" fill="#F1F1F1" fill-rule="nonzero" points="18.995 51.016 32.292 51.016 32.292 60.514 18.995 60.514"></polygon>
+                            <path d="M81.818,47.217 C70.355,47.217 61.061,56.51 61.061,67.973 C61.061,85.885 78.761,88.307 80.249,106.519 C80.314,107.347 80.984,108 81.817,108 C82.648,108 83.317,107.347 83.381,106.519 C84.87,88.307 102.571,85.885 102.571,67.973 C102.573,56.51 93.278,47.217 81.818,47.217 Z" id="Shape" stroke="#2A5082" fill="#F1F1F1" fill-rule="nonzero"></path>
+                            <circle id="Oval" stroke="#2A5082" fill="#FFFFFF" fill-rule="nonzero" cx="81.678" cy="68.112" r="7.598"></circle>
+                            <path d="M7.598,108 L102.573,108" id="Shape" stroke="#2A5082"></path>
+                            <path d="M68.381,11.127 L55.272,11.127 C54.301,9.228 52.014,7.27 49.348,7.27 C48.503,7.27 47.697,7.47 46.957,7.767 C45.471,3.807 41.662,0.836 37.183,0.836 C31.421,0.836 26.749,7.329 26.738,11.128 L11.397,11.128" id="Shape" stroke="#DC1A52"></path>
+                            <path d="M20.894,26.323 L7.598,26.323" id="Shape" stroke="#DC1A52"></path>
+                            <path d="M121.566,20.625 L115.917,20.625 C114.604,16.826 111.877,15.879 108.61,16.275 C107.185,13.82 104.561,12.309 101.516,12.309 C96.996,12.309 93.334,14.927 93.293,20.625 L85.475,20.625" id="Shape" stroke="#DC1A52"></path>
+                            <path d="M24.693,26.323 L28.493,26.323" id="Shape" stroke="#DC1A52"></path>
+                            <path d="M72.181,11.127 L75.979,11.127" id="Shape" stroke="#DC1A52"></path>
+                            <path d="M79.778,11.127 L83.577,11.127" id="Shape" stroke="#DC1A52"></path>
+                            <path d="M3.799,108 L0,108" id="Shape" stroke="#2A5082"></path>
+                            <path d="M106.37,108 L113.969,108" id="Shape" stroke="#2A5082"></path>
+                            <path d="M117.768,108 L121.566,108" id="Shape" stroke="#2A5082"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

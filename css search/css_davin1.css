@@ -1,0 +1,114 @@
+
+@font-face {
+    font-family: "yekanboldfanum";
+    src: url("../Font/iranyekan/iranyekanwebregular(fanum).ttf");
+}
+#div13 {
+    padding-top: 80px;
+}
+.pic18{
+    background-image: url("../img/Bitmap 2 crop FINAL.png");
+    /*width: 717px !important;*/
+    /*height: 30%;*/
+    /*width: 100%;*/
+    background-repeat: no-repeat;
+    box-shadow:
+            inset 0px 2100px 1600px -2000px black;
+            /*inset 0px -1100px 800px -1000px black;*/
+    background-size: cover;
+}
+.pic19{
+    background-image: url("../img/Bitmap 2 crop FINAL.png");
+    /*width: 100%;*/
+    height: 565.800px;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    box-shadow:
+            inset 0px 2100px 1600px -2000px black;
+            /*inset 0px -1100px 800px -1000px black;*/
+    background-size: cover;
+
+}
+.p32 {
+    padding-right: 4%;
+    /*z-index: 1;*/
+    padding-top: 3%  ;
+    font-size: 130%;
+    color: white;
+    position: absolute;
+}
+
+.p23 {
+    /*z-index: 11111;*/
+    /*text-align: left;*/
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    left:5%;
+    /*position: absolute*/
+    padding-left: 3%;
+}
+
+.h35 {
+    color: #383691;
+    display: inline;
+}
+
+.p35 {
+    text-align: left;
+    padding-left: 10% !important
+}
+
+.h18 {
+    z-index: 11111;
+    font-size: 29px;
+    color: white;
+    top: 10%;
+    padding-right: 4%;
+    position: absolute;
+}
+
+.p42 {
+    color: #9d9d9d;
+}
+
+.hr48 {
+    height: 2px;
+    background-color: #eee;
+}
+
+.I39 {
+    color: black;
+    display: inline;
+    padding-right: 10px;
+    font-family: yekanregularfanum;
+}
+
+.p22 {
+    z-index: 11111;
+    font-size: 16px;
+    color: white;
+    top: 23%;
+    padding-right: 4%;
+    padding-left: 4%;
+    position: absolute
+}
+@media screen and (max-width: 991px){
+    .line36 {
+        padding-right: 3% !important;
+    }
+}
+@media screen and (max-width: 991px){
+    .p22 {
+        padding-left:8% !important;
+    }
+}
+@media screen and (max-width: 991px){
+    .p23 {
+        padding-left:6% !important;
+    }
+    .pic18 {
+        height: 850px ;
+    }
+}

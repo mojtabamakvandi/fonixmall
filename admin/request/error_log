@@ -1,0 +1,60 @@
+[22-Aug-2019 12:51:35 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 12:51:58 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 12:52:41 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 12:54:37 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 12:54:49 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 12:54:58 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 12:55:06 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:02:09 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:03:03 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:04:31 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:04:32 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:10:48 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:11:01 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:11:05 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:17:54 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:17:59 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:18:01 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:18:13 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:18:16 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:52:48 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:54:21 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:54:22 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 13:58:55 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:08:03 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:08:14 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:08:38 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:09:40 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:09:45 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:09:48 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:11:25 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 09:42:39 UTC] PHP Warning:  include(class/dataBase.php): failed to open stream: No such file or directory in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:39 UTC] PHP Warning:  include(class/dataBase.php): failed to open stream: No such file or directory in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:39 UTC] PHP Warning:  include(): Failed opening 'class/dataBase.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:39 UTC] PHP Fatal error:  Class 'dataBase' not found in /home/fonix/public_html/admin/request/getSubCat.php on line 3
+[22-Aug-2019 09:42:44 UTC] PHP Warning:  include(class/dataBase.php): failed to open stream: No such file or directory in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:44 UTC] PHP Warning:  include(class/dataBase.php): failed to open stream: No such file or directory in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:44 UTC] PHP Warning:  include(): Failed opening 'class/dataBase.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:44 UTC] PHP Fatal error:  Class 'dataBase' not found in /home/fonix/public_html/admin/request/getSubCat.php on line 3
+[22-Aug-2019 09:42:50 UTC] PHP Warning:  include(class/dataBase.php): failed to open stream: No such file or directory in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:50 UTC] PHP Warning:  include(class/dataBase.php): failed to open stream: No such file or directory in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:50 UTC] PHP Warning:  include(): Failed opening 'class/dataBase.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/fonix/public_html/admin/request/getSubCat.php on line 2
+[22-Aug-2019 09:42:50 UTC] PHP Fatal error:  Class 'dataBase' not found in /home/fonix/public_html/admin/request/getSubCat.php on line 3
+[22-Aug-2019 14:13:29 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:20:54 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:21:03 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:26:23 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:26:25 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[22-Aug-2019 14:26:29 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fonix/public_html/admin/class/dataBase.php on line 104
+[24-Oct-2019 15:56:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[24-Oct-2019 15:57:50 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:10:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:11:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:11:07 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:11:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:11:23 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:12:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:16:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:16:07 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 19:16:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
+[25-Oct-2019 22:53:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fonix/public_html/admin/request/forseDelete.php:23) in /home/fonix/public_html/admin/request/forseDelete.php on line 24
